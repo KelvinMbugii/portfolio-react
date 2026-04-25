@@ -22,7 +22,7 @@ const AboutSection = () => {
     {
       title: 'Software-Engineering',
       company: 'Power Learn Project',
-      period: 'present',
+      period: 'April 2025 - November 2025',
       description: 'Undertook a Software Engineering course focused on full-stack development with MERN Stack',
       icon: <Briefcase className="h-6 w-6" />,
     },

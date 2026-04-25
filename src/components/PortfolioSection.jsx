@@ -23,6 +23,17 @@ const PortfolioSection = () => {
       githubUrl: 'https://github.com/KelvinMbugii/SmartFarm-APP',
       featured: true,
     },
+
+    {
+      id: 2,
+      title: 'Agri-Clinic Hub',
+      description: 'A responsive Agri-Clinic Hub application that connects farmers with agricultural experts, enabling real-time consultation, crop disease diagnosis,and smart farm management. The platform also sends automated SMS and WhatsApp notifications for advisory updates, and reminders',
+      image: 'https://media.istockphoto.com/id/1463452333/photo/smart-farming-holding-young-plant-smart-farming-and-precision-agriculture-4-0-agriculture.jpg?s=612x612&w=0&k=20&c=0ZDWbEGUdURDlF7yZx6gM2EKiGPRbumuKnIG7vsrTTQ=',
+      technologies: ['React', 'Node.js', 'MongoDB', 'Express.js', 'JWT', 'Socket.io', 'TailwindCss', 'REST API'],
+      liveUrl: 'https://agri-clinic-hub-roan.vercel.app/',
+      githubUrl: 'https://github.com/KelvinMbugii/Agri-Clinic-Hub.git',
+      featured: true,
+    },
    
     {
       id: 2,
@@ -34,16 +45,16 @@ const PortfolioSection = () => {
       githubUrl: 'https://github.com/KelvinMbugii/Medicare',
       featured: true,
     },
-    {
-      id: 3,
-      title: 'Task Management App',
-      description: 'A collaborative project management tool with real-time updates, team collaboration features, and advanced filtering. Includes drag-and-drop functionality, deadline tracking, and progress visualization.',
-      image: 'https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800',
-      technologies: ['React', 'Firebase', 'Material-UI', 'Redux', 'WebSocket'],
-      liveUrl: 'https://example-taskmanager.com',
-      githubUrl: 'https://github.com/username/task-manager',
-      featured: false,
-    },
+    // {
+    //   id: 3,
+    //   title: 'Task Management App',
+    //   description: 'A collaborative project management tool with real-time updates, team collaboration features, and advanced filtering. Includes drag-and-drop functionality, deadline tracking, and progress visualization.',
+    //   image: 'https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800',
+    //   technologies: ['React', 'Firebase', 'Material-UI', 'Redux', 'WebSocket'],
+    //   liveUrl: 'https://example-taskmanager.com',
+    //   githubUrl: 'https://github.com/username/task-manager',
+    //   featured: false,
+    // },
     {
       id: 4,
       title: 'Learning Management System',
